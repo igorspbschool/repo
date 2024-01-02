@@ -1,2 +1,27 @@
 Человечки одинаковы.Из удаленной ветки hat человечек приобрел шляпу, из
 локальной boots_buttons пуговицы и ботинки.
+
+В коммитах легко ориентироваться благодаря интерфейсу github. Легко визуально отличить по имени автора, цвета и аватарки слева от коммита, плюс хронология помогает.
+
+Мои коммиты:
+
+Merge pull request #1 from igorspbschool/master
+Verified
+add hometask
+add hometask
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+add boots
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+
+
+Коммиты сделанные ранее:
+35 minutes ago
+Commits on Jun 29, 2016
+fix readme
+dots
+README added
+boots
+heat added
+init
